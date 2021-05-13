@@ -1,6 +1,6 @@
 ## documentation-test
 
-test
+rest
 
 ## Getting started
 
