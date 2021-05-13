@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "documentation-test"
+  description: "test"
+  annotations:
+    github.com/project-slug: paul-hopper/documentation-test
+    backstage.io/techdocs-ref: url:https://github.com/paul-hopper/documentation-test
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: "paulcroarkin"
